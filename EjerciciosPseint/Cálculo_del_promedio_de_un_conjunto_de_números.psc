@@ -9,7 +9,6 @@ Algoritmo Cálculo_del_promedio_de_un_conjunto_de_números
 		Escribir "Ingrese la ", i, " nota:"
 		Leer Array[i]
 		temp <- temp + Array[i]
-		Escribir temp
 	FinPara
 	
 	promedio = temp /5
