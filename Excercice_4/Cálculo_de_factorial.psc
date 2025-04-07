@@ -6,7 +6,7 @@ Algoritmo Cálculo_de_factorial
 		Leer n
 		factorial = 1
 		Para i = 1 Hasta n Con Paso 1 Hacer
-			factorial = factorial * i
+			factorial <- factorial * i
 		FinPara
 		Escribir "El factorial de ", n, " es: ", factorial
 		

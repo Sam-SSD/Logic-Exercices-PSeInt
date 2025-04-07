@@ -3,7 +3,6 @@ Algoritmo Contar_del_1_al_10_con_diferentes_bucles
 	Definir i, j, l Como Entero
 	Definir k Como Logico
 	k = Falso
-
 	
 	Escribir "Con bucle For"
 	
@@ -29,10 +28,5 @@ Algoritmo Contar_del_1_al_10_con_diferentes_bucles
 		j <- j + 1
 		Escribir "Número: ", j
 	Hasta Que j == 10
-	
-	
-
-
-	
 	
 FinAlgoritmo
